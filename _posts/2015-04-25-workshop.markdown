@@ -23,31 +23,43 @@ date:   2017-12-13 12:13:12
 >**2. How we made it**
   
   >>-Prototype of PITA player
-  >>image 
   
-  >>-how we assgined inner space of product
-  >>image 
+  >>![prototype](daybreak060809.github.io/img/prototype.jpeg)
+  
+  
+  >>-How we assgined inner space of product
+  >>![innerspace](daybreak060809.github.io/img/innerspace.jpeg)
+  
 
 * * * 
 
 >**3.Product Design**
   
    >>-Normal Version 
-   >>image 
+   >>![divdied](daybreak060809.github.io/img/together.png)
    >>-Divided Version
-   >>image 
+   >>![divided](daybreak060809.github.io/img/divided.png)
    
 * * * 
    
 >**4.Presentation materials and videos**
   >>**-Presentation materials (ppt file)**
-  
-  
-  
+  >>![logo](daybreak060809.github.io/img/logo.jpeg)
+  >>![1](daybreak060809.github.io/img/1.jpeg)
+  >>![2](daybreak060809.github.io/img/2.jpeg)
+  >>![3](daybreak060809.github.io/img/3.jpeg)
+  >>![4](daybreak060809.github.io/img/4.jpeg)
+  >>![5](daybreak060809.github.io/img/5.jpeg)
+  >>![6](daybreak060809.github.io/img/6.jpeg)
+  >>![7](daybreak060809.github.io/img/7.jpeg)
+  >>![8](daybreak060809.github.io/img/8.jpeg)
+  >>![9](daybreak060809.github.io/img/9.jpeg)
+  >>![10](daybreak060809.github.io/img/10.jpeg)
+ 
   >>**-Presentation Video**
   >>I've inserted some file links because these videos takes lots of memories that cannot be uploaded on this site.
 
-  ><https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing>
+  >><https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing>
   >><https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing>
   >><https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing>
   >> <https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing>
