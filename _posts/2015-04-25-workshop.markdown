@@ -20,41 +20,41 @@ date:   2017-12-13 12:13:12
 >**2. Product Logo and How we made it**
   
   >>-Prototype of PITA player
-  >>>image 
+  >>image 
   >>-how we assgined inner space of product
-  >>>image 
+  >>image 
   
 >**3.Product Design**
   
    >>-Normal Version 
-   >>>image 
+   >>image 
    >>-Divided Version
-   >>>image 
+   >>image 
    
 >**4.Presentation materials and videos**
   >>**-Presentation materials (ppt file)**
   >>**-Videos **
   >>>+)I inserted some file links because these videos takes lots of memories that cannot be uploaded on this site.
 
-  >>>>https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing
-  >>>>https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing
-  >>>>https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing
-  >>>>https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing
-  >>>>https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing
-  >>>>https://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing
+  >>>https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing
+  >>>https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing
+  >>>https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing
+  >>>https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing
+  >>>https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing
+  >>>https://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing
 
 >**5. Codes**
  
    
-   >>+) if you want to see our codes you can download python files through below links.
+>>+) if you want to see our codes you can download python files through below links.
    
    >>>-local version
    
-    >>>>https://drive.google.com/open?id=1PXMsfYgAAf6UBI8dAaCcj2LmM2tuo6r_
+   >>>https://drive.google.com/open?id=1PXMsfYgAAf6UBI8dAaCcj2LmM2tuo6r_
     
    
    >>>-server version 
    
-    >>>>https://drive.google.com/open?id=1TWmMHJ8HywkOfyuU32CBtKM4tA4fQXcD
+   >>>https://drive.google.com/open?id=1TWmMHJ8HywkOfyuU32CBtKM4tA4fQXcD
 
 
