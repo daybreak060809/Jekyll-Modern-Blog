@@ -8,14 +8,15 @@ date:   2017-12-13 12:13:12
 ---
 
 ### PITA PLAYER
-Let me show you our product logo!
+*Let me show you our product logo!*
 ![logo](daybreak060809.github.io/img/logo.jpeg)
 
 * * * 
 
+
 >**1. Intro**
   
-   >>During my second semester in Hanyang Univ. we did a project producting an music set-top box which is Minimum Viable Product.4 team members, Lee hana, Jung Sung-hun, Jung Haerim and me designed its shape considering its usage and did coding process for almost 6 months. The successful result will be presented below.
+   >>During my second semester in Hanyang Univ. we did a project producting an music set-top box which is Minimum Viable Product. Four team members, Lee hana, Jung Sung-hun, Jung Haerim and me designed its shape considering its usage and did coding process for almost 6 months. The successful result will be presented below.
 
 * * * 
 
@@ -46,8 +47,8 @@ Let me show you our product logo!
   >>**-Presentation Video**
   >>I've inserted some file links because these videos takes lots of memories that cannot be uploaded on this site.
 
-  >> <https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing>
-  >> <https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing>
+  ><https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing>
+  ><https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing>
   >><https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing>
   >> <https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing>
   >><https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing>
