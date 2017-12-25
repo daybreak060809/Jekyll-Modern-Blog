@@ -2,18 +2,13 @@
 title:  "PITA PLAYER"
 subtitle: "First Open Source Project in Hanyang University"
 author: "안개"
-avatar: ""
+avatar: "daybreak060809.github.io/img/authors/profile.jpeg"
 image: "img/f.jpg"
 date:   2017-12-13 12:13:12
 ---
 
 ### PITA PLAYER
 ![logo](daybreak060809.github.io/img/logo.jpeg)
-
-
-
-
-
 
 * * * 
 
