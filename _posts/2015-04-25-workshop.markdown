@@ -13,7 +13,7 @@ date:   2017-12-13 12:13:12
   
    During my second semester in Hanyang Univ. we did a project producting an music set-top box which is Minimum Viable Product.4 team members, Lee hana, Jung Sung-hun, Jung Haerim and me designed its shape considering its usage and did coding process for almost 6 months. The successful result will be presented below.
 
-<Product Logo and How we made it>
+**Product Logo and How we made it**
   
   -Prototype of PITA player
   image 
