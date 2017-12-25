@@ -17,19 +17,19 @@ date:   2017-12-13 12:13:12
   
    >>During my second semester in Hanyang Univ. we did a project producting an music set-top box which is Minimum Viable Product.4 team members, Lee hana, Jung Sung-hun, Jung Haerim and me designed its shape considering its usage and did coding process for almost 6 months. The successful result will be presented below.
 
-**2. Product Logo and How we made it**
+>**2. Product Logo and How we made it**
   
-  -Prototype of PITA player
+  >>-Prototype of PITA player
   image 
+  >>-how we assgined inner space of product
+>**3.Product Design**
   
-**3.Product Design**
-  
-   -Normal Version 
-   -Divided Version
+   >>-Normal Version 
+   >>-Divided Version
    
-**4.Presentation materials and videos**
-  
-  **-Videos **
+>**4.Presentation materials and videos**
+  >>**-Presentation materials (ppt file)**
+  >>**-Videos **
   +)I inserted some file links because these videos takes lots of memories that cannot be uploaded on this site.
 
   https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing
@@ -39,10 +39,10 @@ date:   2017-12-13 12:13:12
   https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing
   https://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing
 
-**5. Codes**
+>**5. Codes**
  
    
-   +) if you want to see our codes you can download python files through below links.
+   >>+) if you want to see our codes you can download python files through below links.
    
    -local version
    
