@@ -8,6 +8,7 @@ date:   2017-12-13 12:13:12
 ---
 
 ### PITA PLAYER
+Let me show you our product logo!
 ![logo](daybreak060809.github.io/img/logo.jpeg)
 
 * * * 
