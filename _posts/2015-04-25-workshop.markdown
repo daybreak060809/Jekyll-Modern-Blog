@@ -7,19 +7,19 @@ image: "img/f.jpg"
 date:   2017-12-13 12:13:12
 ---
 
-#### PITA PLAYER
-  ### Intro
+####PITA PLAYER
+  ###Intro
    During my second semester in Hanyang Univ. we did a project producting an music set-top box which is Minimum Viable Product.4 team members, Lee hana, Jung Sung-hun, Jung Haerim and me designed its shape considering its usage and did coding process for almost 6 months. The successful result will be presented below.
 
-  ### Product Logo and How we made it 
+  ###Product Logo and How we made it 
   -Prototype of PITA player
   image 
-  ### Product Design
+  ###Product Design
    -Normal Version 
    -Divided Version
    
   
-  ### Presentation materials and videos
+  ###Presentation materials and videos
   -Videos 
   +)I inserted some file links because these videos takes lots of memories that cannot be uploaded on this site.
 
@@ -32,7 +32,7 @@ date:   2017-12-13 12:13:12
 
  
  
- ### codes
+ ###codes
    
    +) if you want to see our codes you can download python files through below links.
    
