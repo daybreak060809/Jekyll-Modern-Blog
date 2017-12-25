@@ -27,6 +27,7 @@ date:   2017-12-13 12:13:12
   
   >>-Prototype of PITA player
   >>image 
+  
   >>-how we assgined inner space of product
   >>image 
 
