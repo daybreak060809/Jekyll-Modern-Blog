@@ -27,7 +27,7 @@ date:   2017-12-13 12:13:12
   >>![prototype](daybreak060809.github.io/img/prototype.jpeg)
   
   
-  >>-How we assgined inner space of product
+  -How we assgined inner space of product
   >>![innerspace](daybreak060809.github.io/img/innerspace.jpeg)
   
 
@@ -79,5 +79,11 @@ date:   2017-12-13 12:13:12
    >>-server version 
    
    >><https://drive.google.com/open?id=1TWmMHJ8HywkOfyuU32CBtKM4tA4fQXcD>
+   
+   * * *
+   >**If you have any questions or etc **
+   >>*Contact through below email -! *
+   >> <cleanupmess@naver.com>
+   
 
 
