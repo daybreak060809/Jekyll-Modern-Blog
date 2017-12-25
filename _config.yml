@@ -2,9 +2,9 @@
 title: The Blue Story with blooms
 description: The story How I became myself
 keywords: Modern, Blogging, Fun
-author: JIEUN, 
+author: JIEUN
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
-paginate: 3
+paginate: 2
 google_analytics: 'UA-XXXXXXX-X'
