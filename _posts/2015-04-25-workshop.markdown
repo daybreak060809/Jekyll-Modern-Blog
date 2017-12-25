@@ -2,7 +2,7 @@
 title:  "PITA PLAYER"
 subtitle: "First Open Source Project in Hanyang University"
 author: "안개"
-avatar: "img/authors/profile.jpg"
+avatar: ""
 image: "img/f.jpg"
 date:   2017-12-13 12:13:12
 ---
